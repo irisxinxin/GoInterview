@@ -1,0 +1,24 @@
+#公共配置
+server:
+  port: 8888
+
+#决定到底采用哪个环境的配置
+spring:
+  thymeleaf:
+    cache: false
+  mvc:
+    date-format: yyyy-MM-dd
+  profiles:
+    active: test
+  datasource:
+    url: jdbc:mysql://localhost:3306/practice001?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+    username: root
+    password: Hfqjj341!
+    driver-class-name: com.mysql.jdbc.Driver
+mybatis:
+  mapper-locations: classpath:/mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+# 配置数据源信息
+# 加log --- 打印sql方便调试
+# 开发阶段前端不要缓存

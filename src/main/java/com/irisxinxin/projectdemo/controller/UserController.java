@@ -1,16 +1,22 @@
 package com.irisxinxin.projectdemo.controller;
 
+import com.irisxinxin.projectdemo.config.Resource;
+import com.irisxinxin.projectdemo.entity.TUser;
 import com.irisxinxin.projectdemo.entity.User;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import com.irisxinxin.projectdemo.service.IUserService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
 
-import java.util.Date;
 
 @RestController
 @RequestMapping("user")
-public class UserController {
+public class   UserController {
+
+    @Autowired
+    private Resource resource;
+
+    @Autowired
+    private IUserService userService;
 
 
     @GetMapping("hello")
@@ -24,10 +30,25 @@ public class UserController {
         return "ok";
     }
 
+
     @GetMapping("{id}")
-    public User getById2(@PathVariable("id") Long id) {
-        return new User(id, "iris", new Date());
+    public TUser getById2(@PathVariable("id") Integer id) {
+        System.out.println("id="+id);
+        System.out.println("查询操作");
+        return userService.getById(id);
     }
+
+    @PostMapping("add")
+    public String add(User user) {
+        System.out.println(user.getId());
+        return "ok";
+    }
+
+    @GetMapping("getImageServer")
+    public String getImageServer() {
+        return resource.getImageServer();
+    }
+
 
 
 }

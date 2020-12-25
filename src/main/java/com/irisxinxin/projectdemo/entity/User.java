@@ -10,23 +10,23 @@ import java.util.Date;
 
 public class User {
     @JsonIgnore
-    private Long id;
+    private Integer id;
     @JsonInclude(JsonInclude.Include.NON_NULL)
     private String name;
     @JsonFormat(pattern = "yyyy-MM-dd")
     private Date entryDate;
 
-    public User(Long id, String name, Date entryDate) {
+    public User(Integer id, String name, Date entryDate) {
         this.id = id;
         this.name = name;
         this.entryDate = entryDate;
     }
 
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
