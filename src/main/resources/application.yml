@@ -22,3 +22,8 @@ mybatis:
 # 配置数据源信息
 # 加log --- 打印sql方便调试
 # 开发阶段前端不要缓存
+
+# 日志控制
+logging:
+  level:
+    root: info

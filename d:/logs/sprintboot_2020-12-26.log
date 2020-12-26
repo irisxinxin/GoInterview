@@ -1,0 +1,254 @@
+2020-12-26 11:02:36 INFO  [Thread-9]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:02:38 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16608 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-26 11:02:38 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-26 11:02:42 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-26 11:02:42 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:02:42 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-26 11:02:42 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-26 11:02:42 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-26 11:02:42 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4251 ms
+2020-12-26 11:02:45 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:02:46 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-26 11:02:47 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:02:47 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-26 11:02:47 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 9.693 seconds (JVM running for 53900.677)
+2020-12-26 11:02:47 INFO  [restartedMain]  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-26 11:02:51 INFO  [http-nio-8888-exec-2]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-26 11:02:51 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-12-26 11:02:51 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Completed initialization in 7 ms
+2020-12-26 11:03:46 INFO  [Thread-18]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:04:15 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 17066 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-26 11:04:15 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-26 11:04:16 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-26 11:04:16 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-26 11:04:21 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-26 11:04:21 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:04:21 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-26 11:04:21 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-26 11:04:21 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-26 11:04:21 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5813 ms
+2020-12-26 11:04:25 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:04:26 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-26 11:04:26 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:04:26 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-26 11:04:27 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 13.811 seconds (JVM running for 16.788)
+2020-12-26 11:04:31 INFO  [http-nio-8888-exec-2]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-26 11:04:31 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-12-26 11:04:31 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Completed initialization in 26 ms
+2020-12-26 11:04:41 ERROR [http-nio-8888-exec-3]  c.i.p.c.UserController - [name]:[用户名不能为空]
+2020-12-26 11:09:15 ERROR [http-nio-8888-exec-6]  c.i.p.c.UserController - [name]:[用户名不能为空]
+2020-12-26 11:10:02 ERROR [http-nio-8888-exec-7]  c.i.p.c.UserController - [name]:[用户名不能为空]
+2020-12-26 11:10:05 INFO  [Thread-12]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:10:17 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 17085 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-26 11:10:17 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-26 11:10:17 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-26 11:10:17 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-26 11:10:22 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-26 11:10:22 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:10:22 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-26 11:10:22 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-26 11:10:22 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-26 11:10:22 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5008 ms
+2020-12-26 11:10:23 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:10:26 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-26 11:10:26 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:10:26 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-26 11:10:26 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 10.55 seconds (JVM running for 12.548)
+2020-12-26 11:11:40 INFO  [http-nio-8888-exec-2]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-26 11:11:40 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-12-26 11:11:40 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Completed initialization in 77 ms
+2020-12-26 11:11:41 ERROR [http-nio-8888-exec-2]  c.i.p.h.GlobalExceptionHandler - org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'user' on field 'name': rejected value [null]; codes [NotNull.user.name,NotNull.name,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [用户名不能为空]
+2020-12-26 11:11:41 WARN  [http-nio-8888-exec-2]  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'user' on field 'name': rejected value [null]; codes [NotNull.user.name,NotNull.name,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [用户名不能为空]]
+2020-12-26 11:30:52 INFO  [Thread-9]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:30:53 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 17085 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-26 11:30:53 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-26 11:30:56 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-26 11:30:56 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:30:56 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-26 11:30:56 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-26 11:30:56 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-26 11:30:56 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2343 ms
+2020-12-26 11:30:57 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:30:57 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-26 11:30:57 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:30:57 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-26 11:30:57 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 4.407 seconds (JVM running for 1243.923)
+2020-12-26 11:30:57 INFO  [restartedMain]  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-26 11:35:45 INFO  [http-nio-8888-exec-2]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-26 11:35:45 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-12-26 11:35:45 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Completed initialization in 104 ms
+2020-12-26 11:35:55 INFO  [Thread-18]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:36:10 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 17150 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-26 11:36:10 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-26 11:36:10 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-26 11:36:10 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-26 11:36:16 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-26 11:36:16 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:36:16 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-26 11:36:16 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-26 11:36:17 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-26 11:36:17 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 6451 ms
+2020-12-26 11:36:20 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:36:21 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-26 11:36:22 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:36:22 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-26 11:36:22 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 13.262 seconds (JVM running for 15.633)
+2020-12-26 11:36:30 INFO  [http-nio-8888-exec-2]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-26 11:36:30 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-12-26 11:36:30 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Completed initialization in 19 ms
+2020-12-26 11:36:31 ERROR [http-nio-8888-exec-2]  c.i.p.h.GlobalExceptionHandler - [name]:[用户名不能为空]
+2020-12-26 11:36:31 WARN  [http-nio-8888-exec-2]  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'user' on field 'name': rejected value [null]; codes [NotNull.user.name,NotNull.name,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [user.name,name]; arguments []; default message [name]]; default message [用户名不能为空]]
+2020-12-26 11:37:06 INFO  [Thread-9]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:37:07 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 17150 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-26 11:37:07 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-26 11:37:09 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-26 11:37:09 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:37:09 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-26 11:37:09 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-26 11:37:10 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-26 11:37:10 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2561 ms
+2020-12-26 11:37:10 WARN  [restartedMain]  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.irisxinxin.projectdemo.controller.UserController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@eeb4e08d]
+2020-12-26 11:37:10 INFO  [restartedMain]  o.a.c.core.StandardService - Stopping service [Tomcat]
+2020-12-26 11:37:10 INFO  [restartedMain]  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-12-26 11:37:10 ERROR [restartedMain]  o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.irisxinxin.projectdemo.controller.UserController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@eeb4e08d]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:265)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1269)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1184)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$$Lambda$112/000000000000000000.getObject(Unknown Source)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:845)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:742)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:389)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.irisxinxin.projectdemo.ProjectDemoApplication.main(ProjectDemoApplication.java:13)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.irisxinxin.projectdemo.controller.UserController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@eeb4e08d]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:507)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:404)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:389)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:248)
+	... 24 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: com.irisxinxin.projectdemo.entity.User
+	at java.lang.Class.getDeclaredMethodsImpl(Native Method)
+	at java.lang.Class.getDeclaredMethods(Class.java:983)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:489)
+	... 27 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.irisxinxin.projectdemo.entity.User
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:591)
+	at java.lang.ClassLoader.loadClassHelper(ClassLoader.java:953)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:898)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:881)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:144)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:881)
+	... 30 common frames omitted
+2020-12-26 11:37:13 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 17150 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-26 11:37:13 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-26 11:37:16 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-26 11:37:16 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:37:16 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-26 11:37:16 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-26 11:37:16 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-26 11:37:16 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3554 ms
+2020-12-26 11:37:17 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:37:18 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-26 11:37:18 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:37:18 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-26 11:37:18 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 5.4 seconds (JVM running for 71.839)
+2020-12-26 11:37:18 INFO  [restartedMain]  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-26 11:38:19 INFO  [Thread-13]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:38:19 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 17150 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-26 11:38:19 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-26 11:38:21 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-26 11:38:21 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:38:21 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-26 11:38:21 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-26 11:38:21 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-26 11:38:21 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1799 ms
+2020-12-26 11:38:21 WARN  [restartedMain]  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.irisxinxin.projectdemo.controller.UserController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@e4288670]
+2020-12-26 11:38:21 INFO  [restartedMain]  o.a.c.core.StandardService - Stopping service [Tomcat]
+2020-12-26 11:38:21 INFO  [restartedMain]  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-12-26 11:38:21 ERROR [restartedMain]  o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.irisxinxin.projectdemo.controller.UserController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@e4288670]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:265)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1269)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1184)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$$Lambda$112/000000000000000000.getObject(Unknown Source)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:845)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:742)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:389)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202)
+	at com.irisxinxin.projectdemo.ProjectDemoApplication.main(ProjectDemoApplication.java:13)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.irisxinxin.projectdemo.controller.UserController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@e4288670]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:507)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:404)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:389)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:248)
+	... 24 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: com.irisxinxin.projectdemo.entity.User
+	at java.lang.Class.getDeclaredMethodsImpl(Native Method)
+	at java.lang.Class.getDeclaredMethods(Class.java:983)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:489)
+	... 27 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.irisxinxin.projectdemo.entity.User
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:591)
+	at java.lang.ClassLoader.loadClassHelper(ClassLoader.java:953)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:898)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:881)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:144)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:881)
+	... 30 common frames omitted
+2020-12-26 11:38:24 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 17150 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-26 11:38:24 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-26 11:38:25 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-26 11:38:25 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:38:25 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-26 11:38:25 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-26 11:38:25 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-26 11:38:25 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1118 ms
+2020-12-26 11:38:26 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-26 11:38:26 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-26 11:38:26 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-26 11:38:26 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-26 11:38:26 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 2.52 seconds (JVM running for 140.437)
+2020-12-26 11:38:26 INFO  [restartedMain]  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-26 12:21:13 INFO  [Thread-30]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

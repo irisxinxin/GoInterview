@@ -38,6 +38,12 @@
         </dependency>
 
 
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.20</version>
+        </dependency>
+
 <!--        整合mybatis-->
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>

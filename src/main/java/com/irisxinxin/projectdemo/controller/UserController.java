@@ -1,15 +1,27 @@
 package com.irisxinxin.projectdemo.controller;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.irisxinxin.projectdemo.config.Resource;
 import com.irisxinxin.projectdemo.entity.TUser;
 import com.irisxinxin.projectdemo.entity.User;
+import com.irisxinxin.projectdemo.pojo.ResultBean;
 import com.irisxinxin.projectdemo.service.IUserService;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.validation.BindingResult;
+import org.springframework.validation.FieldError;
 import org.springframework.web.bind.annotation.*;
+
+import javax.validation.Valid;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 
 @RestController
 @RequestMapping("user")
+@Slf4j
 public class   UserController {
 
     @Autowired
@@ -38,10 +50,12 @@ public class   UserController {
         return userService.getById(id);
     }
 
+
     @PostMapping("add")
-    public String add(User user) {
+    public ResultBean add(@Valid User user) {
+        // 1. AOP 将核心业务逻辑和非核心业务逻辑分离
         System.out.println(user.getId());
-        return "ok";
+        return new ResultBean("ok", "200");
     }
 
     @GetMapping("getImageServer")

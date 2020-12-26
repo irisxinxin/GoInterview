@@ -5,13 +5,17 @@ package com.irisxinxin.projectdemo.entity;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
+import lombok.Data;
 
+import javax.validation.constraints.NotNull;
 import java.util.Date;
 
+@Data
 public class User {
     @JsonIgnore
     private Integer id;
     @JsonInclude(JsonInclude.Include.NON_NULL)
+    @NotNull(message = "用户名不能为空")
     private String name;
     @JsonFormat(pattern = "yyyy-MM-dd")
     private Date entryDate;
@@ -22,27 +26,4 @@ public class User {
         this.entryDate = entryDate;
     }
 
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public Date getEntryDate() {
-        return entryDate;
-    }
-
-    public void setEntryDate(Date entryDate) {
-        this.entryDate = entryDate;
-    }
 }

@@ -1,0 +1,151 @@
+2020-12-25 16:52:42 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16045 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-25 16:52:42 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-25 16:52:42 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-25 16:52:42 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-25 16:52:49 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-25 16:52:49 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-25 16:52:49 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-25 16:52:49 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-25 16:52:49 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-25 16:52:49 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 7364 ms
+2020-12-25 16:52:51 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-25 16:52:51 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-25 16:52:51 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-25 16:52:51 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-25 16:52:51 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 11.79 seconds (JVM running for 14.357)
+2020-12-25 16:58:35 INFO  [Thread-9]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-25 16:58:36 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16045 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-25 16:58:36 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-25 16:58:37 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-25 16:58:37 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-25 16:58:37 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-25 16:58:37 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-25 16:58:37 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-25 16:58:37 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1078 ms
+2020-12-25 16:58:38 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-25 16:58:38 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-25 16:58:38 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-25 16:58:38 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-25 16:58:38 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 2.467 seconds (JVM running for 361.219)
+2020-12-25 16:58:38 INFO  [restartedMain]  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-25 16:59:51 INFO  [Thread-18]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-25 17:00:00 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16094 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-25 17:00:00 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-25 17:00:00 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-25 17:00:00 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-25 17:00:05 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-25 17:00:05 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-25 17:00:05 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-25 17:00:05 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-25 17:00:05 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-25 17:00:05 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5446 ms
+2020-12-25 17:00:07 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-25 17:00:08 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-25 17:00:08 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-25 17:00:08 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-25 17:00:08 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 9.49 seconds (JVM running for 11.401)
+2020-12-25 17:00:19 INFO  [http-nio-8888-exec-2]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-25 17:00:19 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-12-25 17:00:20 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Completed initialization in 41 ms
+2020-12-25 17:01:10 INFO  [Thread-12]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-25 17:01:24 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16099 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-25 17:01:24 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-25 17:01:25 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-25 17:01:25 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-25 17:01:30 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-25 17:01:31 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-25 17:01:31 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-25 17:01:31 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-25 17:01:31 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-25 17:01:31 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 6277 ms
+2020-12-25 17:01:34 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-25 17:01:35 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-25 17:01:35 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-25 17:01:35 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-25 17:01:35 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 12.498 seconds (JVM running for 14.653)
+2020-12-25 17:01:41 INFO  [http-nio-8888-exec-2]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-25 17:01:41 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-12-25 17:01:42 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Completed initialization in 43 ms
+2020-12-25 17:01:42 INFO  [http-nio-8888-exec-2]  c.i.p.c.PageController - hello
+2020-12-25 17:01:42 WARN  [http-nio-8888-exec-2]  c.i.p.c.PageController - hello
+2020-12-25 17:01:42 ERROR [http-nio-8888-exec-2]  c.i.p.c.PageController - hello
+2020-12-25 18:55:13 INFO  [Thread-9]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-25 18:55:14 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16099 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-25 18:55:14 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-25 18:55:19 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-25 18:55:19 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-25 18:55:19 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-25 18:55:19 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-25 18:55:19 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-25 18:55:19 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4781 ms
+2020-12-25 18:55:21 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-25 18:55:22 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-25 18:55:22 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-25 18:55:22 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-25 18:55:22 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 8.186 seconds (JVM running for 6841.969)
+2020-12-25 18:55:22 INFO  [restartedMain]  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-25 18:56:51 INFO  [Thread-13]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-25 18:56:52 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16099 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-25 18:56:52 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-25 18:56:53 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-25 18:56:53 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-25 18:56:53 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-25 18:56:53 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-25 18:56:53 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-25 18:56:53 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1759 ms
+2020-12-25 18:56:54 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-25 18:56:54 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-25 18:56:54 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-25 18:56:54 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-25 18:56:54 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 3.091 seconds (JVM running for 6934.217)
+2020-12-25 18:56:54 INFO  [restartedMain]  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-25 19:10:43 INFO  [Thread-19]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-25 19:10:43 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16099 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-25 19:10:43 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-25 19:10:44 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-25 19:10:44 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-25 19:10:44 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-25 19:10:44 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-25 19:10:45 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-25 19:10:45 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1305 ms
+2020-12-25 19:10:45 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-25 19:10:45 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-25 19:10:45 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-25 19:10:45 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-25 19:10:45 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 2.335 seconds (JVM running for 7765.244)
+2020-12-25 19:10:45 INFO  [restartedMain]  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-25 19:14:12 INFO  [Thread-25]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-25 19:14:13 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16099 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-25 19:14:13 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-25 19:14:14 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-25 19:14:14 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-25 19:14:14 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-25 19:14:14 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-25 19:14:14 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-25 19:14:14 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1267 ms
+2020-12-25 19:14:14 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-25 19:14:15 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-25 19:14:15 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-25 19:14:15 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-25 19:14:15 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 2.13 seconds (JVM running for 7974.451)
+2020-12-25 19:14:15 INFO  [restartedMain]  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-12-25 19:16:44 INFO  [Thread-36]  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-25 20:04:31 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Starting ProjectDemoApplication on xindeMacBook-Air.local with PID 16608 (/Users/xin/Desktop/ProjectPlease/target/classes started by xin in /Users/xin/Desktop/ProjectPlease)
+2020-12-25 20:04:31 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - The following profiles are active: test
+2020-12-25 20:04:31 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-12-25 20:04:31 INFO  [restartedMain]  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-12-25 20:04:40 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-12-25 20:04:40 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-12-25 20:04:40 INFO  [restartedMain]  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-12-25 20:04:40 INFO  [restartedMain]  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-12-25 20:04:40 INFO  [restartedMain]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-12-25 20:04:40 INFO  [restartedMain]  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 9352 ms
+2020-12-25 20:04:42 INFO  [restartedMain]  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-25 20:04:44 INFO  [restartedMain]  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-12-25 20:04:44 INFO  [restartedMain]  o.a.c.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-12-25 20:04:44 INFO  [restartedMain]  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-12-25 20:04:44 INFO  [restartedMain]  c.i.p.ProjectDemoApplication - Started ProjectDemoApplication in 15.352 seconds (JVM running for 18.148)
+2020-12-25 20:06:46 INFO  [http-nio-8888-exec-2]  o.a.c.c.C.[.[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-25 20:06:46 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-12-25 20:06:47 INFO  [http-nio-8888-exec-2]  o.s.w.s.DispatcherServlet - Completed initialization in 127 ms
+2020-12-25 20:06:53 ERROR [http-nio-8888-exec-3]  c.i.p.c.UserController - [name]:[用户名不能为空]
